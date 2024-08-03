@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**azatnv/azatnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 I'm a Data Scientist with 2 year experience in NLP, RecSys, Classical ML and Time Series. I am passionate and enthusiastic about ML, Data Engineering, Data Analysis and Backend development.
 
-Here are some ideas to get you started:
+📕 My Skill Set:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- General DS: Python, Pandas, NumPy, Scikit-Learn.
+- A/B: SciPy, StatsModels.
+- Neural Networks: PyTorch.
+- Data Visualization: Matplotlib, Seaborn, Plotly.
+- NLP: LLM, LangChain, Natasha, Gensim, Transformers, HuggingFace.
+- RecSys: Rectools, RecBole, Microsoft Recommenders.
+- Time Series: sktime, Prophet.
+- CV: Yolo, Segment Anything.
+- MLOps: Linux, Git, Docker, FastAPI, Docker-compose, Kubernetes, CI/CD.
+- Other: SQL, PySpark, Hadoop, REST API, Swagger.
+
+📗 Now I'm:
+- 🔭 I’m currently working on developing LLM platform for an oil company.
+- 🌱 I’m currently learning Golang.
+
+📫 How to reach me: [tg@azat_nv](https://t.me/azat_nv) or [Linkedin@azat-sibagatulin](https://www.linkedin.com/in/azat-sibagatulin/)
+
