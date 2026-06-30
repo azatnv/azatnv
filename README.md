@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💭 I'm a Data Scientist with 2 year experience in NLP, RecSys, Classical ML and Time Series. I am passionate and enthusiastic about ML, Data Engineering, Data Analysis and Backend development.
+💭 I'm a Data Scientist with 4 year experience in NLP, RecSys, Classical ML and Time Series. I am passionate and enthusiastic about ML, Data Engineering, Data Analysis and Backend development.
 
 📕 My Skill Set:
 
